@@ -16,10 +16,8 @@ public interface TVshow {
 		System.out.println("I am in the Interface named TVshow");
 	}
 	
-	// JDK8 also allows static methods for interfaces.
-	
-	public static int getShowNumebr(){
-		
+	// JDK8 also allows static methods for interfaces.	
+	public static int getShowNumebr(){	
 		return 0;
 	}
 }

@@ -14,7 +14,7 @@ public class SundayShow implements TVshow,WeekendShow {
 	
 	// From the second interface
 	@Override
-	public String showTagettedPublic(String s) {	
+	public String showTargettedPublic(String s) {	
 		return s;
 	}
 
